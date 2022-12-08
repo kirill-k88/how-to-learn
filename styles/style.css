@@ -71,6 +71,7 @@ h1 {
   position: absolute;
   width: 765px;
   height: 608px;
+  object-fit: cover;
   bottom: 0;
   right: 0;
   z-index: 1;
