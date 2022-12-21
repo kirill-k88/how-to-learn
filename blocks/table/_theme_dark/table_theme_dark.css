@@ -1,0 +1,9 @@
+.table_theme_dark {
+  position: relative;
+  z-index: 2;
+  margin-bottom: 90px;
+  /*Отступ нижний согласно brif*/
+  margin-top: 80px;
+  row-gap: 80px;
+  /*Отступ верхний и между рядами согласно brif*/
+}

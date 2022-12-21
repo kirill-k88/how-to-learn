@@ -1,0 +1,7 @@
+.footer__columns {
+  display: flex;
+  justify-content: space-between;
+  margin: 60px auto 40px;
+  /*Отступы верхний и нижний согласно brif*/
+  width: 90%;
+}
