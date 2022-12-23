@@ -1,5 +1,11 @@
+/* Общие стили */
 @import url(../vendor/normalize.css);
+/*Стиль страницы*/
 @import url(../blocks/page/page.css);
+/* Стили контента */
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
@@ -24,13 +30,10 @@
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/oakley/oakley.css);
-@import url(../blocks/section-title/section-title.css);
-@import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-title/_theme_dark/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme_dark/section-subtitle_theme_dark.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/table/table.css);
-@import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/_theme_dark/table_theme_dark.css);
