@@ -72,15 +72,18 @@
 @import url(../blocks/common-link/common-link.css);
 @import url(../blocks/rotation/rotation.css);
 
-section,
+/* section,
 div,
 p,
 blockquote,
 cite,
 a,
+ul,
+li,
 img,
 h2,
 h3,
 h1 {
   outline: solid red;
 }
+ */
