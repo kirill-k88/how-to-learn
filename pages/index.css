@@ -30,14 +30,14 @@
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/oakley/oakley.css);
-@import url(../blocks/section-title/_theme_dark/section-title_theme_dark.css);
-@import url(../blocks/section-subtitle/_theme_dark/section-subtitle_theme_dark.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
-@import url(../blocks/table/_theme_dark/table_theme_dark.css);
-@import url(../blocks/table/__cell/_theme_dark/table__cell_theme_dark.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
@@ -47,7 +47,6 @@
 @import url(../blocks/khan/__author/khan__author.css);
 @import url(../blocks/khan/__book-container/khan__book-container.css);
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
-@import url(../blocks/khan/__book-pic-img/khan__book-pic-img.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
 @import url(../blocks/khan/__container/khan__container.css);
 @import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
@@ -73,7 +72,7 @@
 @import url(../blocks/common-link/common-link.css);
 @import url(../blocks/rotation/rotation.css);
 
-/* section,
+section,
 div,
 p,
 blockquote,
@@ -85,4 +84,3 @@ h3,
 h1 {
   outline: solid red;
 }
- */
